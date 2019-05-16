@@ -1,6 +1,6 @@
 # LED_LDR_ARDUINO
 ---
-### Resources ###:
+### Resources:
 + [You can learn Arduino in 15 minutes](https://www.youtube.com/watch?v=nL34zDTPkcs&t=4s)
 + [Medium article](https://medium.com/@eestuffs/how-to-turn-on-off-a-led-with-ldr-and-arduino-c771c281f2c)
 + [map()](https://www.arduino.cc/reference/en/language/functions/math/map/)
