@@ -1,6 +1,8 @@
 # LED_LDR_ARDUINO
-שם: יובל בלאס  
-כיתה: ט׳1
+
+שם: יובל בלאס   
+כיתה: ט1
+
 ---
 ### Resources:
 + [You can learn Arduino in 15 minutes](https://www.youtube.com/watch?v=nL34zDTPkcs&t=4s)
