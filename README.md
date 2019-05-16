@@ -10,3 +10,7 @@
 + [map()](https://www.arduino.cc/reference/en/language/functions/math/map/)
 + [analogRead()](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)
 + [Serial](https://www.arduino.cc/reference/en/language/functions/communication/serial/)
+
+### Photos:
+![LED is OFF](https://raw.githubusercontent.com/YuvalBlass/LED_LDR_ARDUINO/master/LED_is_OFF.jpg "LED is OFF")
+![LED is ON](https://raw.githubusercontent.com/YuvalBlass/LED_LDR_ARDUINO/master/LED_is_ON.jpg "LED is ON")
