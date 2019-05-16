@@ -14,11 +14,11 @@ void loop() {
   
   if (ldrStatusPercantage <= 50) { // Lower or equal to 50 means it's dark
     digitalWrite(ledPin, HIGH);
-    Serial.println("LDR is DARK, LED is ON!");
+    Serial.println("LED is ON!");
   }
   else { // Otherwise the LED should be turned off
     digitalWrite(ledPin, LOW);
-    Serial.println("LDR is LIGHT, LED is OFF!");
+    Serial.println("LED is OFF!");
   }
   
   delay(750); // 750ms delay
